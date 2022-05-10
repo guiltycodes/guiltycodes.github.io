@@ -25,6 +25,7 @@ h1 {
     text-align: center;
     font-family: 'Roboto Flex';
     font-size: 100px;
+    display: block;
     background-color: #59dea4;
     letter-spacing: 7px;
     
