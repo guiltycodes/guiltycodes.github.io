@@ -23,6 +23,7 @@ html {
 h1 {
     color: #ffff;
     text-align: center;
+    block-align: center;
     font-family: 'Roboto Flex';
     font-size: 100px;
     display: block;
